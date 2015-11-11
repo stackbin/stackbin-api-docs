@@ -7,3 +7,6 @@ We appreciate bug reports and proposals for changes to our API docs, but because
 For help with the Stackbin API please [open a help request][help].
 
 For updates and general questions follow [@stackbin on Twitter][twitter].
+
+[help]: mailto:help@stkbn.com
+[twitter]: https://twitter.com/Stackbin
